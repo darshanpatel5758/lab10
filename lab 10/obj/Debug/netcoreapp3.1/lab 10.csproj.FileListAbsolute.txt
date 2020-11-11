@@ -1,0 +1,13 @@
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.exe
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.deps.json
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.runtimeconfig.json
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.runtimeconfig.dev.json
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.dll
+D:\Grand Circus\lab 10\lab 10\bin\Debug\netcoreapp3.1\lab 10.pdb
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.csprojAssemblyReference.cache
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.AssemblyInfoInputs.cache
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.AssemblyInfo.cs
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.csproj.CoreCompileInputs.cache
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.dll
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.pdb
+D:\Grand Circus\lab 10\lab 10\obj\Debug\netcoreapp3.1\lab 10.genruntimeconfig.cache
